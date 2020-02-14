@@ -1,4 +1,4 @@
-Simple Pagination App
+Simple Pagination App made with React
 
 ---
 
